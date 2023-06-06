@@ -1,1 +1,2 @@
 # BookGPT-Language-Model
+Given any book from ![Project Gutenberg](https://www.gutenberg.org/), engineered an N-gram language model in Python that can generate new sentences trained on that book. Basic language learning model, built trying to understand ChatGPT, optimizing text generation and conditional probability computation. Leveraged Numpy and Pandas for efficient data manipulation, exhibited proficiency in recursive design. Understanding of the foundational principles of generating corpuses, tokenization, model building and language models. 
